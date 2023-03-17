@@ -1,0 +1,2 @@
+# lilis-public
+Public Script
